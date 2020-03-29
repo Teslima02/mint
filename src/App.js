@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import Layout from './components/Layout';
+import Widget1 from './components/Widget1';
 
 function App() {
   return (
-    <Layout />
-    // </Layout>
+    <Layout>
+      <Widget1 />
+    </Layout>
   );
 }
 
