@@ -6,7 +6,6 @@ import {
   Card,
   CardContent,
 } from '@material-ui/core';
-import { Sparklines, SparklinesLine } from 'react-sparklines';
 
 import Vector1 from '../assets/images/Vector1.svg';
 
