@@ -32,13 +32,13 @@ const useStyles = makeStyles({
 });
 
 const data = [
-  {id: 1, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567890', time: '12:30', status: 'Reconciled'},
-  {id: 2, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567891', time: '12:31', status: 'Pending'},
-  {id: 3, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567892', time: '12:32', status: 'Reconciled'},
-  {id: 4, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567893', time: '12:33', status: 'Reconciled'},
+  {id: 1, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73230', transactionNo: '1234567890', time: '12:30', status: 'Reconciled'},
+  {id: 2, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73330', transactionNo: '1234567891', time: '12:31', status: 'Pending'},
+  {id: 3, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73530', transactionNo: '1234567892', time: '12:32', status: 'Reconciled'},
+  {id: 4, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73230', transactionNo: '1234567893', time: '12:33', status: 'Reconciled'},
   {id: 5, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567894', time: '12:34', status: 'Pending'},
-  {id: 6, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567895', time: '12:35', status: 'Un-reconciled'},
-  {id: 7, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567896', time: '12:36', status: 'Reconciled'},
+  {id: 6, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$74430', transactionNo: '1234567895', time: '12:35', status: 'Un-reconciled'},
+  {id: 7, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73630', transactionNo: '1234567896', time: '12:36', status: 'Reconciled'},
   {id: 8, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567897', time: '12:37', status: 'Un-reconciled'},
   {id: 9, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567898', time: '12:38', status: 'Pending'},
   {id: 10, itemType: 'Apple Mac Book 15* 250 SSD 12B', price: '$73430', transactionNo: '1234567890', time: '12:39', status: 'Reconciled'},
